@@ -1,0 +1,1 @@
+double get_dist_from_center(double x, double y);
